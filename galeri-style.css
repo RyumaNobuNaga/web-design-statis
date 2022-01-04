@@ -83,9 +83,10 @@
 }
 
 .tm-img-container-1 {
-  background-image: url(../img/buangsampah.jpg);
-  background-position: top center;
+  background-image: url(../img/Home\ Go\ Study.png);
+  background-position: center;
   background-size: 100%;
+  padding-top: -100px;
 }
 
 .tm-img-container-2 {
@@ -96,7 +97,7 @@
 }
 
 .tm-img-container-3 {
-  background-image: url(../img/aplikasiandroid.png);
+  background-image: url(../img/masker.png);
   background-position: top center;
   background-size: 100%;
 }
@@ -109,7 +110,7 @@
 }
 
 .tm-img-container-5 {
-  background-image: url(../img/olahsampah.jpg);
+  background-image: url(../img/ide.png);
   background-position: top center;
   background-size: 100%;
 }
